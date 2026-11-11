@@ -34,6 +34,7 @@ strong,b{font-weight:700}
 .marca{display:inline-flex;align-items:center;gap:10px;font:800 1.08rem/1 var(--f-tit);letter-spacing:-.01em;text-decoration:none;color:var(--tinta)}
 .marca svg{width:24px;height:24px}
 .selo-app{display:inline-block;padding:4px 7px;border-radius:6px;background:var(--tinta);color:#f3aa3c;font-size:.68rem;letter-spacing:.08em}
+.heroi .subtitulo{margin-top:16px;font:800 clamp(1.45rem,1.1rem + 1.4vw,2.1rem)/1.1 var(--f-tit);letter-spacing:-.02em;color:var(--tinta)}
 .heroi .lead.forte{margin-top:12px;font-weight:700;color:var(--tinta)}
 .heroi .lead + .lead{margin-top:12px}
 .heroi{display:grid;gap:40px;padding-block:30px 8px}
